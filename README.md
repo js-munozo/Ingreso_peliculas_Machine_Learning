@@ -15,4 +15,4 @@
 - Gradient Boosting Tree
 - XGBoost
 
-## Luego se analizan los resultados de los modelos y se sacan conclusiones sobre el ingreso atípico de algunas películas
+## Luego se analizan los resultados de los modelos y se presentan conclusiones sobre el ingreso atípico de algunas películas.
